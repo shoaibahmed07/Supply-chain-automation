@@ -157,8 +157,5 @@ supply-chain-automation/
 
 ## 📬 Contact
 
-If you have questions, feedback, or suggestions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-profile/) or open an issue on this repo.
+If you have questions, feedback, or suggestions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/shoaib07ahmed/) or open an issue on this repo.
 
----
-
-Would you like me to generate this `README.md` file for you to download?
