@@ -137,21 +137,8 @@ Defined key performance metrics:
 | In-Full Delivery % | All quantities fulfilled             | Important for supply planning  |
 | OTIF %             | Delivered both on time & in full     | Holistic reliability indicator |
 
----
 
-## 📁 Folder Structure
 
-```
-supply-chain-automation/
-├── README.md
-├── n8n-workflow.json
-├── quadratic-spreadsheet.xlsx
-├── screenshots/
-│   └── workflow-diagram.png
-├── docs/
-│   └── how-it-works.md
-└── LICENSE
-```
 
 ---
 
